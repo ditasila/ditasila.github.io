@@ -21,6 +21,15 @@ March 2024 - Present
   - Developed Tableau dashboards to present insights and growth opportunities.
   - GitHub: [AWS Sales Analysis](https://github.com/ditasila/Capstone_2.git)
   - Tableau: [AWS Sales Performance](https://public.tableau.com/views/CAPSTONE2_17176528829280/saas-dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+    
+- **Customer Churn Prediction**
+  - Developed a predictive model to identify customers likely to churn based on historical data.
+  - Utilized various machine learning algorithms, including logistic regression, decision trees, and gradient boosting.
+  - Performed feature engineering to enhance model performance, including handling missing values, encoding categorical variables, and scaling numerical features.
+  - Evaluated model performance using metrics such as recall.
+  - Implemented data visualization techniques to interpret model outputs and derive actionable insights.
+  - GitHub: [Customer Churn Prediction](https://github.com/ditasila/Capstone_3.git)
+
 
 ## Publications
 - **Distinguish Input and Output Handling: A Comparative Analysis of Function Parameters versus Terminal Interaction in Python**
@@ -35,8 +44,7 @@ March 2024 - Present
 ## Education
 **Kazan Federal University**  
 Bachelor of Economics, Specialization in Digital Economics  
-September 2019 – July 2023  
-GPA: 3.21/4
+September 2019 – July 2023 
 
 
 ## Skills
