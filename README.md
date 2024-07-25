@@ -1,4 +1,4 @@
-[![MasterHead](https://via.placeholder.com/1500x400.png?text=Header+Image)](https://ditasila.io) 
+[![MasterHead](https://github.com/ditasila/ditasila.github.io/blob/9e4478f15322e1af8f00cb701d4cba933b3dae60/readme.avif)](https://ditasila.github.io) 
 
 <h1 align="center">Hello, I'm Annisa Najla Rosari Ditasila</h1>
 <h3 align="center">Economics Graduate | Learning Data Science</h3>
