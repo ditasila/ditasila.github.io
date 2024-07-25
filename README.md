@@ -1,4 +1,5 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://ninismr.io) 
+[![MasterHead](https://via.placeholder.com/1500x400.png?text=Header+Image)](https://ditasila.io) 
+
 <h1 align="center">Hello, I'm Annisa Najla Rosari Ditasila</h1>
 <h3 align="center">Economics Graduate | Learning Data Science</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/media/01d3300ea655f716d67efa6665113005.gif"> -->
@@ -39,19 +40,27 @@
     - Implemented data visualization techniques to interpret model outputs and derive actionable insights.
 
 <h2>📜 Publications:</h2>
-- **Distinguish Input and Output Handling: A Comparative Analysis of Function Parameters versus Terminal Interaction in Python**
-  - Medium: [Distinguish Input and Output Handling](https://medium.com/@ditasila/distinguish-input-and-output-handling-a-comparative-analysis-of-function-parameters-versus-8dfd6a3c61e6)
-- **Exploring Alternative Methods to Retrieve Columns from Different Tables in SQL**
-  - Medium: [Exploring Alternative Methods](https://medium.com/@ditasila/exploring-alternative-methods-to-retrieve-columns-from-different-tables-in-sql-f43db5d56fd2)
-- **From Chaos to Clarity: Unveiling the Power of Tomek Links**
-  - Medium: [From Chaos to Clarity: Unveiling the Power of Tomek Links](https://medium.com/@ditasila/from-chaos-to-clarity-unveiling-the-power-of-tomek-links-03667f5b75fa)
 
+- **Distinguish Input and Output Handling: A Comparative Analysis of Function Parameters versus Terminal Interaction in Python**
+
+  - Medium: [Distinguish Input and Output Handling](https://medium.com/@ditasila/distinguish-input-and-output-handling-a-comparative-analysis-of-function-parameters-versus-8dfd6a3c61e6)
+  
+- **Exploring Alternative Methods to Retrieve Columns from Different Tables in SQL**
+
+  - Medium: [Exploring Alternative Methods](https://medium.com/@ditasila/exploring-alternative-methods-to-retrieve-columns-from-different-tables-in-sql-f43db5d56fd2)
+
+- **From Chaos to Clarity: Unveiling the Power of Tomek Links**
+
+  - Medium: [From Chaos to Clarity: Unveiling the Power of Tomek Links](https://medium.com/@ditasila/from-chaos-to-clarity-unveiling-the-power-of-tomek-links-03667f5b75fa)
+  
 <h2>🎓 Education:</h2>
+
 **Kazan Federal University**  
 Bachelor of Economics, Specialization in Digital Economics  
 September 2019 – July 2023 
 
 <h2>🛠 Skills:</h2>
+
 - **Programming Languages**: SQL, Python
 - **Data Visualization**: Tableau, Excel, Matplotlib, Seaborn
 - **Data Science and Analytics**: Scikit-Learn, Pandas, NumPy, Hypothesis Testing, Regression Analysis, Statistics, Descriptive and Inferential Analysis
